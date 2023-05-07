@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+<h1 align="center"> Quiz Spring Boot Application </h1>
+<p align="center">You can see a more detailed description of the project on the Wiki</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44166990/56513684-0dd1f580-6555-11e9-8ac0-6466ed3238c2.png">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Title of the Project | Quiz Application
+-- | --
+Topic addressed by the project | A classic quiz web application where the user will be asked a question with answer options and he needs to choose the appropriate
+Background | This application has everything is needed for a full understanding of the Spring Boot framework and how to use it with React JS Framework that I used for Frontend part.
+Aim of the project (what) | The aim is to create some kind of educational program that will help people test their knowledge
+Objectives of the project (why) | This is an International Ala-Too University project marking the end of the studying Backend. It's purpose is to build a system that uses Java Spring Boot Framework, is connected to a PostgreSQL database and has a nice user interface built in React JS Framework.
+Expected outcomes | To understand the Java Spring Boot Framework, how to make a OneToMany, ManyToOne and ManyToMany relationships there and Authentication 
+Proposed activities | Presentation in Zoom
+Estimative budget | Free budget
+Proposed partners | Nobody
+Git repository link | Backend (https://github.com/zaiyr00/quiz-spring-boot-app) Frontend (https://github.com/zaiyr00/quiz-react-js-app)
 
-### `npm run build`
+# Software Features List  :
+1.	Data storage (Files, Databases)
+2.	Input validation
+3.	Authoritation
+4.	Authentication
+5.	Git repdository must be active on duration of minimum one month
+6.	Web project must deployed to production web server and be available for public access
+7.	Project must be implemented by using clean code convention
+8.	UML Class diagrams
+9.	UML Database diagrams
+10.	UML Use case diagrams
+11.	CV
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Links:
+1) Backend: https://quiz-spring-boot-app.herokuapp.com/questions
+1) Frontend: https://quiz-react-js-app.firebaseapp.com/
+3) Swagger documentation for Backend part: https://quiz-spring-boot-app.herokuapp.com/swagger-ui.html#/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* [Java](https://go.java/) - widely used object-oriented language, the core of our system
 
-### `npm run eject`
+* [Java Spring Boot](https://spring.io/) - an open source Java-based framework used to create a micro Service.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* [MySQL](https://www.mysql.com/) - data storage solution
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* [React JS](https://reactjs.org/) - a JavaScript library for building user interfaces  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Purpose
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This is an International Ala-Too University project marking the end of the studying Backend development. It's purpose is to build a system that uses **Java Spring Boot** Framework at the core, is connected to a **PostgreSQL** (for Heroku) and **MySQL** databases and has a nice user interface built in **React JS** library.
 
-## Learn More
+# License
+The MIT License (MIT)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Copyright (c) 2020 Zaiyr Sharsheyev
